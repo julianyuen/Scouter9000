@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Cygwin) (format=pdflatex 2014.5.4)  14 MAY 2014 23:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Cygwin) (format=pdflatex 2014.5.4)  15 MAY 2014 01:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -124,24 +124,24 @@ Package: balance 1999/02/23 4.3 (PWD)
 Excluding comment 'comment') (./sensys-full.aux)
 \openout1 = `sensys-full.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 55
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 30
 .
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -205,172 +205,90 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 57.
+(Font)              scaled to size 8.99994pt on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 8.99994pt on input line 57.
+(Font)              scaled to size 8.99994pt on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <18> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 16.19989pt on input line 57.
+(Font)              scaled to size 16.19989pt on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 12.59991pt on input line 57.
+(Font)              scaled to size 12.59991pt on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 57.
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 57
+(Font)              scaled to size 10.79993pt on input line 32.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 32
 .
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 57
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 32
 .
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omlptmcm.fd
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 57
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 32
 .
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omxpsycm.fd
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 
  []
 
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 57.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 32.
 
-Underfull \hbox (badness 1048) in paragraph at lines 66--67
-[]\OT1/ptm/m/n/10 H.4 [\OT1/ptm/b/n/10 Information Sys-tems Ap-pli-ca-tions\OT1
-/ptm/m/n/10 ]: Mis-cel-la-
+Underfull \hbox (badness 1038) in paragraph at lines 48--49
+[]\OT1/ptm/m/n/10 Currently, the only form of com-mu-ni-ca-tion in large
  []
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 70.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 70.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+ (./sensys-full.bbl)
 
-LaTeX Warning: Citation `braams:babel' on page 2 undefined on input line 190.
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
 
-
-LaTeX Warning: Citation `herlihy:methodology' on page 2 undefined on input line
- 190.
-
-
-LaTeX Warning: Citation `salas:calculus' on page 2 undefined on input line 192.
-
-
-
-Overfull \hbox (3.98808pt too wide) in paragraph at lines 234--241
- [][] 
- []
-
-<./Images/fly.pdf, id=14, 33.2442pt x 31.317pt>
-File: ./Images/fly.pdf Graphic file (type pdf)
- <use ./Images/fly.pdf>
-Package pdftex.def Info: ./Images/fly.pdf used on input line 281.
-(pdftex.def)             Requested size: 33.24411pt x 31.31691pt.
-File: ./Images/fly.pdf Graphic file (type pdf)
-
-<use ./Images/fly.pdf>
-Package pdftex.def Info: ./Images/fly.pdf used on input line 289.
-(pdftex.def)             Requested size: 76.72786pt x 72.26999pt.
-LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
-(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 293.
- <./Images/flies.pdf, id=15, 307.1475pt x 113.82526pt>
-File: ./Images/flies.pdf Graphic file (type pdf)
-
-<use ./Images/flies.pdf>
-Package pdftex.def Info: ./Images/flies.pdf used on input line 303.
-(pdftex.def)             Requested size: 307.14674pt x 113.82497pt.
- [2 <./Images/fly.pdf>]
-<./Images/rosette.pdf, id=26, 614.295pt x 794.97pt>
-File: ./Images/rosette.pdf Graphic file (type pdf)
- <use ./Images/rosette.pdf>
-Package pdftex.def Info: ./Images/rosette.pdf used on input line 319.
-(pdftex.def)             Requested size: 55.83719pt x 72.26999pt.
-
-Underfull \hbox (badness 2573) in paragraph at lines 315--326
-[]\OT1/ptm/m/n/10 Note that the graph-ics are in pdf for-mat and we
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 315--326
-\OT1/ptm/m/n/10 used \OT1/pcr/m/n/10 pdflatex \OT1/ptm/m/n/10 to type-set this 
-doc-u-ment. How-ever,
- []
-
-\c@theorem=\count101
-
-Underfull \hbox (badness 1242) in paragraph at lines 337--341
-[]\OT1/ptm/m/n/10 This uses the \OT1/ptm/b/n/10 the-o-rem \OT1/ptm/m/n/10 en-vi
--ron-ment, cre-ated by the
- []
-
-\c@definition=\count102
-
-Overfull \hbox (6.93015pt too wide) detected at line 377
-\OML/ptmcm/m/it/10 l \OT1/ptmcm/m/n/10 = [] \OML/ptmcm/m/it/10 f\OT1/ptmcm/m/n/
-10 (\OML/ptmcm/m/it/10 x\OT1/ptmcm/m/n/10 ) = [] [] = [] \OML/ptmcm/m/it/10 g\O
-T1/ptmcm/m/n/10 (\OML/ptmcm/m/it/10 x\OT1/ptmcm/m/n/10 ) \OMS/pzccm/m/n/10 ^^A 
-[] [] \OT1/ptmcm/m/n/10 = 0 \OMS/pzccm/m/n/10 ^^A \OML/ptmcm/m/it/10 L \OT1/ptm
-cm/m/n/10 = 0\OML/ptmcm/m/it/10 ;
- []
-
-
-LaTeX Warning: Citation `salas:calculus' on page 3 undefined on input line 387.
-
-
-[3 <./Images/flies.pdf> <./Images/rosette.pdf>] (./sensys-full.bbl) [4]
-(./sensys-full.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[2] (./sensys-full.aux) ) 
 Here is how much of TeX's memory you used:
- 1991 strings out of 493315
- 27698 string characters out of 6143676
- 92205 words of memory out of 5000000
- 5385 multiletter control sequences out of 15000+600000
- 56530 words of font info for 110 fonts, out of 8000000 for 9000
+ 1914 strings out of 493315
+ 26764 string characters out of 6143676
+ 91202 words of memory out of 5000000
+ 5334 multiletter control sequences out of 15000+600000
+ 38702 words of font info for 75 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,10n,23p,267b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cmextra/cmex9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
-xmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texmf-dist/fonts/type1/
-urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
-fb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf
--dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texmf-dist/fonts/type1/urw/ti
-mes/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
-are/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/ty
-pe1/urw/times/utmri8a.pfb>
-Output written on sensys-full.pdf (4 pages, 156387 bytes).
+ 37i,10n,23p,756b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</u
+sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
+-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/ur
+w/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><
+/usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/f
+onts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on sensys-full.pdf (2 pages, 80000 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

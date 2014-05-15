@@ -3,50 +3,47 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: sensys-full.aux
 The style file: abbrv.bst
 Database file #1: sigproc.bib
-Warning--I didn't find a database entry for "braams:babel"
-Warning--I didn't find a database entry for "herlihy:methodology"
-Warning--I didn't find a database entry for "salas:calculus"
-Warning--empty journal in bowman:reasoning
-Warning--empty journal in clark:pct
-You've used 3 entries,
+Warning--empty journal in ibeacon:description
+Warning--empty journal in energy:modeling
+You've used 2 entries,
             2118 wiz_defined-function locations,
-            515 strings with 4124 characters,
-and the built_in function-call counts, 747 in all, are:
-= -- 65
-> -- 37
+            505 strings with 3941 characters,
+and the built_in function-call counts, 528 in all, are:
+= -- 45
+> -- 30
 < -- 0
-+ -- 15
-- -- 12
-* -- 44
-:= -- 142
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 14
++ -- 12
+- -- 10
+* -- 35
+:= -- 103
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 11
 chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 32
-empty$ -- 57
-format.name$ -- 12
-if$ -- 145
+cite$ -- 4
+duplicate$ -- 20
+empty$ -- 35
+format.name$ -- 10
+if$ -- 98
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 4
-newline$ -- 18
-num.names$ -- 6
-pop$ -- 22
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 15
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 9
 quote$ -- 0
-skip$ -- 20
+skip$ -- 14
 stack$ -- 0
-substring$ -- 15
-swap$ -- 1
+substring$ -- 10
+swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 10
+type$ -- 8
 warning$ -- 2
-while$ -- 6
-width$ -- 4
-write$ -- 31
-(There were 5 warnings)
+while$ -- 4
+width$ -- 3
+write$ -- 20
+(There were 2 warnings)
